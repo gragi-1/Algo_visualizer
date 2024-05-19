@@ -1,6 +1,6 @@
 # Algo_visualizer
 
-![Image_to_show](algovisualizer.png)
+![Image_to_show](Images/algovisualizer.png)
 
 ## Sorting Algorithms
 
